@@ -2,8 +2,8 @@
 <img src="JsHwPic.png">
 <br>
 <br>
-<img src="exercise1.png">
-<img src="exercise2.png">
+<img src="Exercise1Pic.png">
+<img src="Exercise2Pic.png">
 <br>
 <br>
 <img src="1)Even or Odd.png">
